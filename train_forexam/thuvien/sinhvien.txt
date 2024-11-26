@@ -1,0 +1,22 @@
+3
+nguyen huu minh
+21ktmt2
+201881706
+106210245
+27082003
+giai tich 2
+vip
+nguyen van minh
+21ktmt2
+201881705
+106210244
+27082003
+giai tich 1
+vip
+nguyen van chien
+20ktmt2
+201881810
+10621044
+27082002
+giai tich 3
+thuong
